@@ -1,0 +1,229 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Toán Học",
+      "icon": "podcasts",
+      "totalCourses": 10
+    },
+    {
+      "id": 2,
+      "title": "Tiếng Anh",
+      "icon": "gitlab",
+      "totalCourses": 12
+    },
+    {
+      "id": 3,
+      "title": "Toeic",
+      "icon": "podcasts",
+      "totalCourses": 10
+    },
+    {
+      "id": 4,
+      "title": "Hóa học",
+      "icon": "gitlab",
+      "totalCourses": 12
+    },
+    {
+      "id": 5,
+      "title": "Tiếng Đức",
+      "icon": "podcasts",
+      "totalCourses": 10
+    },
+    {
+      "id": 6,
+      "title": "Tiếng Pháp",
+      "icon": "gitlab",
+      "totalCourses": 12
+    },
+    {
+      "id": 7,
+      "title": "Toán Nga",
+      "icon": "podcasts",
+      "totalCourses": 10
+    },
+    {
+      "id": 8,
+      "title": "Tiếng Thái",
+      "icon": "gitlab",
+      "totalCourses": 12
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Tiếng Anh Giao Tiếp Cơ Bản",
+      "categoryId": 2,
+      "description": "Khóa học giúp bạn nói tiếng Anh tự tin hơn.",
+      "fullDescription": "Khóa học tập trung vào các tình huống giao tiếp hàng ngày như chào hỏi, giới thiệu bản thân, hỏi đường, mua sắm, giao tiếp nơi công sở... Phù hợp cho người mới bắt đầu học tiếng Anh.",
+      "learningContent": [
+        "Giao tiếp căn bản trong cuộc sống hàng ngày",
+        "Luyện nghe - nói với ngữ cảnh thực tế",
+        "Phát âm chuẩn theo giọng người bản xứ",
+        "Từ vựng thông dụng trong giao tiếp"
+      ],
+      "curriculum": [
+        "Tuần 1-2: Phát âm, giới thiệu bản thân",
+        "Tuần 3-4: Hỏi thăm, mua sắm, hỏi đường",
+        "Tuần 5-6: Giao tiếp công sở, nhà hàng",
+        "Tuần 7-8: Tổng hợp và luyện phản xạ"
+      ],
+      "voice": ["Nữ - Giọng trung", "Nữ - Giọng nam", "Nữ - Giọng bắc"],
+      "tags": ["Online", "Zoom", "2 buổi/tuần"],
+      "duration": "2 tháng",
+      "mode": "Online",
+      "price": 1750000,
+      "image": "https://i.pinimg.com/1200x/65/35/1a/65351ae88d0c420998307807a98a08ef.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Toán Tư Duy Lớp 6",
+      "categoryId": 1,
+      "description": "Giúp học sinh lớp 6 nâng cao tư duy và giải toán logic.",
+      "fullDescription": "Khóa học xây dựng nền tảng tư duy toán học, giúp học sinh giải quyết các bài toán logic, hình học và tư duy phản biện một cách khoa học, trực quan và sáng tạo.",
+      "learningContent": [
+        "Tư duy logic và phản biện",
+        "Toán tổ hợp, xác suất cơ bản",
+        "Hình học trực quan và phân tích",
+        "Giải bài tập theo phương pháp tư duy ngược"
+      ],
+      "curriculum": [
+        "Tuần 1-2: Số học và logic cơ bản",
+        "Tuần 3-4: Tư duy hình học và lập luận",
+        "Tuần 5-6: Bài toán tổ hợp",
+        "Tuần 7-8: Tổng hợp luyện đề"
+      ],
+      "voice": ["Nam - Giọng trung", "Nữ - Giọng nam", "Nam - Giọng bắc"],
+      "tags": ["Offline", "3 buổi/tuần"],
+      "duration": "2 tháng",
+      "mode": "Offline",
+      "price": 1900000,
+      "image": "https://i.pinimg.com/1200x/14/c3/e6/14c3e6532fc517f75db74bce3279a491.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hóa học cơ bản lớp 8",
+      "categoryId": 4,
+      "description": "Nắm vững kiến thức hóa học nền tảng, phản ứng và bài tập",
+      "fullDescription": "Giúp học sinh hiểu rõ về nguyên tử, phân tử, phản ứng hóa học và các kiến thức trọng tâm chương trình lớp 8.",
+      "learningContent": [
+        "Cấu tạo nguyên tử và phân tử",
+        "Phản ứng hóa học và định luật bảo toàn",
+        "Hóa trị, công thức hóa học",
+        "Bài tập hóa học thực tiễn"
+      ],
+      "curriculum": [
+        "Tuần 1-2: Nguyên tử, phân tử",
+        "Tuần 3-4: Phản ứng hóa học",
+        "Tuần 5-6: Bài tập nâng cao",
+        "Tuần 7-8: Ôn luyện và kiểm tra"
+      ],
+      "voice": ["Nam - Giọng trung", "Nam - Giọng nam", "Nam - Giọng bắc"],
+      "tags": ["Online", "Zoom", "3 buổi/tuần"],
+      "duration": "2 tháng",
+      "mode": "Online",
+      "price": 1650000,
+      "image": "https://i.pinimg.com/1200x/11/16/ed/1116edebd6c08284f528320039c3ea1f.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Luyện Thi TOEIC 700+",
+      "categoryId": 3,
+      "description": "Rèn luyện kỹ năng làm bài TOEIC chuyên sâu",
+      "fullDescription": "Khóa học tập trung luyện đề, tăng kỹ năng nghe hiểu, đọc hiểu, mở rộng vốn từ vựng và chiến thuật làm bài thi TOEIC giúp học viên đạt mức điểm 700+.",
+      "learningContent": [
+        "Chiến lược làm bài TOEIC phần Listening & Reading",
+        "Luyện đề mô phỏng đề thật",
+        "Từ vựng và cấu trúc thường gặp trong đề thi",
+        "Giải thích đáp án chi tiết, mẹo làm bài nhanh"
+      ],
+      "curriculum": [
+        "Tuần 1-2: Cấu trúc đề, kỹ năng nghe",
+        "Tuần 3-4: Kỹ năng đọc & từ vựng nâng cao",
+        "Tuần 5-6: Luyện đề + giải chi tiết",
+        "Tuần 7-8: Mô phỏng thi thử, tổng hợp lỗi sai"
+      ],
+      "voice": ["Nam - Giọng bắc", "Nữ - Giọng trung"],
+      "tags": ["Online", "Zoom", "2 buổi/tuần"],
+      "duration": "2 tháng",
+      "mode": "Online",
+      "price": 2200000,
+      "image": "https://i.pinimg.com/1200x/69/93/9a/69939a8692c11efb6aab841a4391d16b.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Tiếng Đức Sơ Cấp A1",
+      "categoryId": 5,
+      "description": "Khóa học tiếng Đức cho người mới bắt đầu",
+      "fullDescription": "Cung cấp kiến thức cơ bản về tiếng Đức trình độ A1, giúp học viên nghe, nói, đọc, viết những mẫu câu đơn giản trong đời sống hàng ngày.",
+      "learningContent": [
+        "Phát âm tiếng Đức chuẩn",
+        "Ngữ pháp cơ bản A1",
+        "Từ vựng và hội thoại đời sống",
+        "Kỹ năng nghe - nói thực tế"
+      ],
+      "curriculum": [
+        "Tuần 1-2: Giới thiệu bản thân, số đếm, ngày tháng",
+        "Tuần 3-4: Mô tả người, đồ vật, địa điểm",
+        "Tuần 5-6: Giao tiếp khi đi mua sắm, nhà hàng",
+        "Tuần 7-8: Ôn tập & luyện thi chứng chỉ A1"
+      ],
+      "voice": ["Nam - Giọng nam", "Nữ - Giọng trung"],
+      "tags": ["Online", "3 buổi/tuần"],
+      "duration": "2 tháng",
+      "mode": "Online",
+      "price": 2500000,
+      "image": "https://i.pinimg.com/736x/97/ff/23/97ff23a7741ce93e7616d9526a9a6ad1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tiếng Pháp Giao Tiếp Hằng Ngày",
+      "categoryId": 6,
+      "description": "Luyện phản xạ giao tiếp bằng tiếng Pháp",
+      "fullDescription": "Khóa học giúp học viên tự tin giao tiếp tiếng Pháp trong các tình huống hằng ngày như đi chợ, nhà hàng, hỏi đường, giao tiếp nơi công cộng.",
+      "learningContent": [
+        "Từ vựng tiếng Pháp theo chủ đề",
+        "Mẫu câu giao tiếp thực tế",
+        "Phát âm tiếng Pháp cơ bản",
+        "Thực hành phản xạ với giáo viên bản ngữ"
+      ],
+      "curriculum": [
+        "Tuần 1-2: Giao tiếp cơ bản, giới thiệu bản thân",
+        "Tuần 3-4: Giao tiếp mua sắm, nhà hàng",
+        "Tuần 5-6: Hỏi đường, phương tiện công cộng",
+        "Tuần 7-8: Giao tiếp trong môi trường làm việc"
+      ],
+      "voice": ["Nữ - Giọng nam", "Nữ - Giọng trung"],
+      "tags": ["Offline", "3 buổi/tuần"],
+      "duration": "2 tháng",
+      "mode": "Offline",
+      "price": 2100000,
+      "image": "https://i.pinimg.com/736x/35/47/48/354748471cbad482eccf036d1db1a86c.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Luyện phát âm cho trẻ 4-10 tuổi",
+      "categoryId": 3,
+      "description": "Rèn luyện kỹ năng làm bài TOEIC chuyên sâu",
+      "fullDescription": "Khóa học tập trung luyện đề, tăng kỹ năng nghe hiểu, đọc hiểu, mở rộng vốn từ vựng và chiến thuật làm bài thi TOEIC giúp học viên đạt mức điểm 700+.",
+      "learningContent": [
+        "Chiến lược làm bài TOEIC phần Listening & Reading",
+        "Luyện đề mô phỏng đề thật",
+        "Từ vựng và cấu trúc thường gặp trong đề thi",
+        "Giải thích đáp án chi tiết, mẹo làm bài nhanh"
+      ],
+      "curriculum": [
+        "Tuần 1-2: Cấu trúc đề, kỹ năng nghe",
+        "Tuần 3-4: Kỹ năng đọc & từ vựng nâng cao",
+        "Tuần 5-6: Luyện đề + giải chi tiết",
+        "Tuần 7-8: Mô phỏng thi thử, tổng hợp lỗi sai"
+      ],
+      "voice": ["Nam - Giọng bắc", "Nữ - Giọng trung"],
+      "tags": ["Online", "Zoom", "2 buổi/tuần"],
+      "duration": "2 tháng",
+      "mode": "Online",
+      "price": 2200000,
+      "image": "https://i.pinimg.com/1200x/69/93/9a/69939a8692c11efb6aab841a4391d16b.jpg"
+    }
+  ]
+}
