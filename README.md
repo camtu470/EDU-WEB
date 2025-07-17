@@ -41,13 +41,20 @@ Người dùng có thể:
 - khi xem bằng link demo vercel thì chạy lênh **npm run start:api** để load dữ liệu
 ## 🎨 Giao diện
 
+- **Trang đăng nhập**
+<img width="1908" alt="edu-login" src="https://github.com/user-attachments/assets/6df07da0-e933-447b-ac2a-6b56ca049ee5" />
+
 - **Trang chủ**: Giới thiệu nền tảng, phân loại khóa học, khóa học phổ biến, đội ngũ gia sư,gợi ý khóa học, tin tức
   
-  <img width="1908" alt="edu-home" src="https://github.com/user-attachments/assets/02919398-b3d4-4134-950f-f39b6eb7f6b4" />
+<img width="1908" alt="edu-homee" src="https://github.com/user-attachments/assets/26c577c8-2759-4039-89b0-fabf0237635c" />
 
 - **Trang danh mục khóa học**: Tìm kiếm theo tên khóa học, lọc theo giá
   
  <img width="1908" alt="edu-couresPage" src="https://github.com/user-attachments/assets/282783f0-db81-44e8-bb83-1931c7187123" />
+
+ - **Gợi ý khóa học :** Gợi ý các khóa học dựa theo hành vi của người dùng ( xem, yêu thích )
+
+   <img width="935" alt="edu-suggestion" src="https://github.com/user-attachments/assets/76549fee-1576-49d6-9983-2f1bcb2b1a83" />
 
 - **Trang chi tiết khóa học**: Hình ảnh, tên khóa học, phân loại, mô tả dài, lộ trình học, thời gian học, giá , nút đăng kí
   
