@@ -235,19 +235,19 @@ export default function CoursesPage() {
               <div className="flex gap-2 lg:gap-4 mt-2">
                 <p
                   onClick={() => handleSelectPriceRange(0, 500000)}
-                  className="text-xs lg:text-lg p-2 px-4 lg:px-6 rounded bg-gray-200 text-black hover:bg-white hover:text-[#FD4917] hover:border hover:border-[#FD4917] transition-all duration-300 ease-in-out cursor-pointer"
+                  className="text-xs lg:text-base p-2 px-4 lg:px-4 rounded bg-gray-200 text-black hover:bg-white hover:text-[#FD4917] hover:border hover:border-[#FD4917] transition-all duration-300 ease-in-out cursor-pointer"
                 >
                   0 - 500k
                 </p>
                 <p
                   onClick={() => handleSelectPriceRange(500000, 1000000)}
-                  className="text-xs lg:text-lg p-2 px-4 lg:px-6 rounded bg-gray-200 text-black hover:bg-white hover:text-[#FD4917] hover:border hover:border-[#FD4917] transition-all duration-300 ease-in-out cursor-pointer"
+                  className="text-xs lg:text-base p-2 px-4 lg:px-4 rounded bg-gray-200 text-black hover:bg-white hover:text-[#FD4917] hover:border hover:border-[#FD4917] transition-all duration-300 ease-in-out cursor-pointer"
                 >
                   500k - 1 triệu
                 </p>
                 <p
                   onClick={() => handleSelectPriceRange(1000000, 9999999)}
-                  className="text-xs lg:text-lg p-2 px-4 lg:px-6 rounded bg-gray-200 text-black hover:bg-white hover:text-[#FD4917] hover:border hover:border-[#FD4917] transition-all duration-300 ease-in-out cursor-pointer"
+                  className="text-xs lg:text-base p-2 px-4 lg:px-4 rounded bg-gray-200 text-black hover:bg-white hover:text-[#FD4917] hover:border hover:border-[#FD4917] transition-all duration-300 ease-in-out cursor-pointer"
                 >
                   1 triệu - x triệu
                 </p>
