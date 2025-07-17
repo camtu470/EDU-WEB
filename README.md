@@ -12,8 +12,6 @@ Người dùng có thể:
 - Xem khóa học yêu thích, xem lại các khóa học đã nhấn vào xem.
 - đăng kí khóa học
 
-**Demo** : https://edu-web-8etd-ht1dqb0i4-camtus-projects.vercel.app
-- Khi đăng nhập thành công ( lưu ý load trang lại để cập nhật )
 
 ## 🧰 Công nghệ sử dụng
 
@@ -38,6 +36,9 @@ Người dùng có thể:
 - tab1 : chạy lệnh **npm run dev**
 - tab2 : chạy lệnh **npm run start:api**
 
+**Demo** : https://edu-web-8etd-ht1dqb0i4-camtus-projects.vercel.app
+- Khi đăng nhập thành công ( lưu ý load trang lại để cập nhật )
+- khi xem bằng link demo vercel thì chạy lênh **npm run start:api** để load dữ liệu
 ## 🎨 Giao diện
 
 - **Trang chủ**: giới thiệu nền tảng,phân loại khóa học, khóa học phổ biến ,đội ngũ gia sư,gợi ý khóa học, tin tức
