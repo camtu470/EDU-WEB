@@ -12,6 +12,8 @@ Người dùng có thể:
 - Xem khóa học yêu thích, xem lại các khóa học đã nhấn vào xem.
 - đăng kí khóa học
 
+**Demo** : https://edu-web-8etd-ht1dqb0i4-camtus-projects.vercel.app
+- Khi đăng nhập thành công ( lưu ý load trang lại để cập nhật )
 
 ## 🧰 Công nghệ sử dụng
 
@@ -29,9 +31,9 @@ Người dùng có thể:
 ## ⚙️ Hướng dẫn Build & Run
 
 ### 1. Clone repo
-- Clone dự án : git clone https://github.com/your-username/edu-ecommerce-platform.git
+- Clone dự án 
 - Mở dự án
-- cd edu-ecommerce-platform
+- Mở thư mục dự án
 - Mở 2 tab terminal
 - tab1 : chạy lệnh **npm run dev**
 - tab2 : chạy lệnh **npm run start:api**
