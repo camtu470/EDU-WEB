@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import type { CourseWithCategory } from "../features/courses/course.types";
+import type { CourseWithCategory } from "../components/features/courses/course.types";
 import CourseCard from "../components/ui/CourseCard";
 import CourseDetailModal from "../components/features/courses/[id]";
 import { Button } from "../components/ui/Button";

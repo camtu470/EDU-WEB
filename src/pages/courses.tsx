@@ -18,7 +18,7 @@ export default function CoursesPage() {
   const [minPrice, setMinPrice] = useState<number | "">("");
   const [maxPrice, setMaxPrice] = useState<number | "">("");
   const [searchTerm, setSearchTerm] = useState("");
-  const [favorites, setFavorites] = useState<CourseWithCategory[]>([]);
+  const [_favorites, setFavorites] = useState<CourseWithCategory[]>([]);
   const [showRegisterForm, setShowRegisterForm] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 6;
